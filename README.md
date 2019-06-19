@@ -5,7 +5,7 @@
 1. `npm install`
 2. Rename `example.env` to `.env` and add secrets as needed
 3. Edit `package.json` project name
-4. Reset git: `rm -rf .git && git init && git commit -m 'start'`
+4. Reset git: `rm -rf .git && git init && git add -A && git commit -m 'start'`
 
 ## Usage
 
