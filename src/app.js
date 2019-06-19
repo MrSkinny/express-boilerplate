@@ -9,8 +9,8 @@ const { NODE_ENV } = require('./config');
 const app = express();
 
 const morganOption = (NODE_ENV === 'production')
-  ? 'tiny'
-  : 'common';
+  ? 'common'
+  : 'dev';
 
 app.use(morgan(morganOption));
 app.use(cors());
