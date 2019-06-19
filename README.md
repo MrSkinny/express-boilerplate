@@ -2,9 +2,9 @@
 
 ## Set up
 
-4. `npm install`
-5. Rename `example.env` to `.env` and add secrets as needed
-6. Edit `package.json` project name
+1. `npm install`
+2. Rename `example.env` to `.env` and add secrets as needed
+3. Edit `package.json` project name
 
 ## Usage
 
