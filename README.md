@@ -10,5 +10,5 @@
 
 * `npm run dev` - run with Nodemon
 * `npm test` - Mocha default
-* `npm test -- --watch` - Mocha in watch mode
+* `npm test -- -w` - Mocha in watch mode
 * `npm run deploy` - pushes to Heroku master
